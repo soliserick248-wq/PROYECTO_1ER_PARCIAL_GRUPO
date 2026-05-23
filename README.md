@@ -1,0 +1,2 @@
+# PROYECTO_1ER_PARCIAL_GRUPO
+Perceptrón_
